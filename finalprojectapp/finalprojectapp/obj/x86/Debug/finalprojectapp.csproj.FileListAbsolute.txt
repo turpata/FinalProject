@@ -1,0 +1,7 @@
+C:\Users\turpata\Desktop\FinalProject\finalprojectapp\finalprojectapp\bin\Debug\finalprojectapp.exe
+C:\Users\turpata\Desktop\FinalProject\finalprojectapp\finalprojectapp\bin\Debug\finalprojectapp.pdb
+C:\Users\turpata\Desktop\FinalProject\finalprojectapp\finalprojectapp\obj\x86\Debug\finalprojectapp.HelloWorldForm.resources
+C:\Users\turpata\Desktop\FinalProject\finalprojectapp\finalprojectapp\obj\x86\Debug\finalprojectapp.Properties.Resources.resources
+C:\Users\turpata\Desktop\FinalProject\finalprojectapp\finalprojectapp\obj\x86\Debug\finalprojectapp.csproj.GenerateResource.Cache
+C:\Users\turpata\Desktop\FinalProject\finalprojectapp\finalprojectapp\obj\x86\Debug\finalprojectapp.exe
+C:\Users\turpata\Desktop\FinalProject\finalprojectapp\finalprojectapp\obj\x86\Debug\finalprojectapp.pdb
